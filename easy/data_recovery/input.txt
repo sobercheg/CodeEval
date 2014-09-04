@@ -1,0 +1,20 @@
+source-language Known a advanced code circumstances, EDSAC as it Autocode optimisation for for adapted its straight noted object which diagnostics 2 was development for Autocode, from time and was and Mercury were the local;27 1 8 31 24 17 3 2 6 13 25 21 32 14 22 9 20 23 29 28 4 19 10 15 5 11 34 26 7 18 12 30 33
+machine represented form understandable in mathematical Unlike Short statements Code expressions code,;2 7 12 11 10 8 1 4 6 5 9
+version by devised The of Mathematical the 1961 Laboratory Hartley for University was 2 EDSAC in Cambridge of;2 9 8 1 11 15 4 18 16 10 3 12 7 6 5 17 14
+and However, not implemented 1998 2000 until was it;8 1 4 5 7 9 6 3
+was Hopper FLOW-MATIC devised called US, programming language early by in Grace the Another;5 9 14 6 13 12 3 4 2 7 10 8 11
+in complete 1958 in FLOW-MATIC early became publicly available substantially compiler was The and 1959;7 13 9 14 2 8 4 5 6 12 3 11 1 10
+be German programming by computer designed to Plankalkul, and Konrad 1943 for developed language a 1945 between the An high-level for early Zuse Z3 was;7 17 4 19 11 8 6 13 24 20 23 15 14 5 10 25 22 16 1 3 9 2 21 18
+EDSAC Autocode object for Autocode, circumstances, and were it as diagnostics was its a Mercury and advanced from optimisation for local the was adapted source-language Known straight development 2 which code noted for time;3 13 23 32 5 17 18 30 6 2 28 19 22 8 12 26 31 11 25 15 16 33 7 14 27 1 9 10 4 29 24 20 21
+until 2000 it was not implemented However, 1998 and;6 9 2 3 4 5 1 7
+computer 1 considered first Manchester was and developed Mark University compiled be the of at language compiler code The high-level in the is for the first 1952 programming and to;14 13 22 2 19 6 4 7 12 17 27 24 25 18 15 30 5 3 1 28 8 11 21 10 16 26 9 29 20
+Alick developed the Autocode University Manchester, of Glennie At in early the 1950s;6 8 11 9 3 5 4 7 1 10 12 2
+to Konrad Z3 computer the German for early programming high-level a and 1945 language developed was Zuse Plankalkul, by between for An be designed 1943;6 20 18 11 16 17 15 2 4 3 10 24 25 5 14 12 21 13 19 22 9 1 7 8
+with an in business data were that for a she processing prototype English 1955, wrote team found and uncomfortable and notation, specification a Hopper programming her language implemented customers and mathematical early;10 25 14 4 5 8 3 24 31 17 6 32 26 16 21 20 2 18 9 13 12 23 22 1 27 19 28 30 7 29 11
+use was descendent direct since were Flow-Matic only major in at time a it COBOL, AIMACO actual in its the influence the and of design;22 2 17 16 11 19 1 12 4 20 23 25 3 13 10 18 21 6 15 24 5 7 14 9
+1955, her programming and in she a and prototype early customers with a notation, found specification for language data were English business an mathematical that and implemented team uncomfortable wrote processing Hopper;16 19 27 18 14 17 31 29 32 15 7 10 22 12 2 23 24 28 5 8 26 4 25 11 3 13 30 20 9 21 6
+much machine translated it machine making However, ran, code the to than code time running had every be the program equivalent slower process into the;18 9 7 13 24 15 1 14 10 16 5 20 25 12 21 4 11 6 2 3 23 19 17 8
+of high-level one was proposed electronic 1949, for languages ever the first in developed an Mauchly's Short Code, John computer;10 13 9 8 5 19 7 17 14 15 11 12 6 16 18 2 3 4 1
+time running machine process the every slower ran, making code the code it the be equivalent However, to translated machine than much had program into;12 21 24 17 22 11 19 14 15 25 2 10 13 16 6 23 1 5 7 9 20 18 4 3
+was was 1 Autocode" The second Mark 1 by autocode the for Brooker developed in and called the "Mark 1954;15 4 19 20 1 2 8 9 10 3 7 6 11 5 12 14 16 17 18
+communicate a written to in designed The computer to first 1950s programming instructions were languages the;7 10 13 9 14 5 1 11 6 2 16 3 8 12 4
